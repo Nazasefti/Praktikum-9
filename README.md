@@ -14,7 +14,7 @@
 
 # Syntax Error
 
-- Syntax error bisa disamakan dengan kesalahan tata bahasa atau gramatika
+- Syntax error bisa disamakan dengan kesalahan tata bahasa atau gramatika.
 
 - Contoh kesalahan yang termasuk dalam kategori ini adalah menuliskan perintah yang sebenarnya tidak ada, lupa menuliskan tanda kurung kotak, tanda kurung bulat dan titik koma, serta salah mengeja variabel.
 
