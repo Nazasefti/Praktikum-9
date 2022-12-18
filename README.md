@@ -33,7 +33,7 @@ Python menyediakan dua fitur yang sangat penting untuk menangani kesalahan tak t
 
 - Exception Handling
 
-adalah suatu mekanisme penaganan flow normal program karena terjadi exception dengan melanjutkan flow ke code block lainnya. Kenapa harus menangani exception? Karena terjadi exception dan kita tidak tangani, maka program akan berhenti.
+adalah suatu mekanisme penanganan flow normal program karena terjadi exception dengan melanjutkan flow ke code block lainnya. Kenapa harus menangani exception? Karena terjadi exception dan kita tidak tangani, maka program akan berhenti.
 
 - Assertions Exception
 
@@ -41,7 +41,7 @@ adalah sebuah peristiwa, yang terjadi selama pelaksanaan program yang mengganggu
 
 # Runtime Error
 
-- Runtime erroe adalah error yang muncul ketika program dijalankan / run. Misal error pembagian dengan nol Syntax error tidak bisa mengendus error ini karena memang tidak ada syntax yang dilanggar. namun ketika program dijalankan dan ada error ini maka program akan berhenti.
+- Runtime error adalah error yang muncul ketika program dijalankan / run. Misal error pembagian dengan nol Syntax error tidak bisa mengendus error ini karena memang tidak ada syntax yang dilanggar. namun ketika program dijalankan dan ada error ini maka program akan berhenti.
 
 - Misalnya, bila kita membuka file yang tidak ada, maka akan muncul pesan kesalahan FileNotFoundError.
 
